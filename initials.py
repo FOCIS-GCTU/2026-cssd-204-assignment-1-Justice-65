@@ -25,4 +25,6 @@ def main():         # write initials
     print("...JJJJ....JJJJ........PPPP................DDD....DDD.......")
     print("...JJJJ...JJJJ....**...PPPP...........**...DDDDDDDDD......**")
     print("....JJJJJJJJJ.....**...PPPP...........**...DDDDDDD........**")
+main()
+
 
